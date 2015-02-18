@@ -1,3 +1,4 @@
+  <meta property="og:image" content="http://muurileht.ee/101ideed/img/og.jpg" />
   <meta property="og:site_name" content="101 ideed / Müürileht"/>
   <meta property="og:type" content="article" />
   <meta property="article:publisher" content="https://www.facebook.com/muurileht" />

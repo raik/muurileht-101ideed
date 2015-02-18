@@ -472,8 +472,38 @@ p.article__author__title {
 }
 
 .article__social {
-  margin-top: 30px;
+  margin-top: 40px;
   text-align: center;
+}
+
+.article__social ul {
+  list-style: none;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.article__social li {
+  display: inline-block;
+}
+
+.article__social a {
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 20px;
+  border: 1px solid black;
+  padding: 5px 15px;
+  display: inline-block;
+  font-size: .65rem;
+  letter-spacing: .05em;
+}
+
+.article__social__cta {
+  /*font-weight: 900;*/
+  font-size: .7rem !important;
+  text-transform: uppercase;
+  margin-bottom: 4px !important;
+  letter-spacing: .05em;
+  color: #888;
 }
 
 .article__social .fb-like {

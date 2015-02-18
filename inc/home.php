@@ -83,10 +83,15 @@
 
 
           <div class="article__social">
-
-            <div class="fb-like" data-href="http://muurileht.ee/101ideed/#!/<?php echo $file_without_ext; ?>" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
-
-            <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://muurileht.ee/101ideed/#!/<?php echo $file_without_ext; ?>" data-text="<?php echo $body_title; ?>" data-via="muurileht" data-hashtags="101ideed">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+          <?php
+              $twitter_sharer = 'http://muurileht.ee/101ideed/#!/'.$file_without_ext.'';
+              $fb_sharer = 'http://muurileht.ee/101ideed/#!/'.$file_without_ext.'';
+          ?>
+            <p class="article__social__cta">Jaga ideed:</p>
+            <ul>
+              <li><a href="http://twitter.com/intent/tweet?url=<?php echo urlencode($twitter_sharer); ?>">Twitter</a></li>
+              <li><a href="http://www.facebook.com/sharer.php?u=<?php echo urlencode($fb_sharer); ?>">Facebook</a></li>
+            </ul>
 
           </div>
 

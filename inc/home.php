@@ -42,7 +42,7 @@
         ?>
 
       <li class="ideas-list__item">
-        <a href="#<?php echo $file_without_ext; ?>" data-mfp-src="#<?php echo $file_without_ext; ?>" class="ideas-list__item__inner">
+        <a href="#!/<?php echo $file_without_ext; ?>" data-mfp-src="#<?php echo $file_without_ext; ?>" class="ideas-list__item__inner">
 
           <img data-original="<?php echo $content_dir.$profile_img; ?>" alt="<?php echo $header_name; ?>" class="lazy ideas-list__item__img">
 

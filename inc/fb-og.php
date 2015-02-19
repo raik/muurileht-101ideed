@@ -1,13 +1,10 @@
-  <meta property="og:image" content="http://muurileht.ee/101ideed/img/og.jpg" />
-  <meta property="og:site_name" content="101 ideed / Müürileht"/>
-  <meta property="og:type" content="article" />
-  <meta property="article:publisher" content="https://www.facebook.com/muurileht" />
   <?php
     if(isset($_GET["_escaped_fragment_"])){
 
       // remove slash form querystring
       $query = substr($_GET["_escaped_fragment_"], 1);
       $file_path = $content_dir.$query.'.txt';
+      $profile_img = $content_dir.$query.'.jpg';
 
       if (in_array($file_path, $files)) {
 
@@ -21,10 +18,16 @@
         $body_title = substr(strtok($fcontent_body, "\n"), 2);
         $body_content = implode("\n", array_slice(explode("\n", $fcontent_body), 2));
 
-        print '<meta property="og:title" content="'.$body_title.' / '.$header_name.'"/>';
+        print '<meta property="og:title" content="101 ideed: '.$body_title.' / '.$header_name.'"/>';
         print '<meta property="og:description" content="'.$body_content.'"/>';
+        print '<meta property="og:image" content="http://muurileht.ee/101ideed/'.$profile_img.'"/>';
+
 
       }
 
     }
   ?>
+  <meta property="og:image" content="http://muurileht.ee/101ideed/img/og.jpg" />
+  <meta property="og:site_name" content="101 ideed / Müürileht"/>
+  <meta property="og:type" content="article" />
+  <meta property="article:publisher" content="https://www.facebook.com/muurileht" />

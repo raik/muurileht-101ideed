@@ -1,0 +1,11 @@
+---
+nimi: Erik Puura
+tiitel: TÜ arendusprorektor
+---
+
+# Viime transpordisektori üle taastuvenergiapõhisele elektritranspordile
+
+
+Autodel on lisaks aeglasele laadimisvõimalusele võimalus kiiresti vahetada mahalaaditud akupakett täislaaditud paketi vastu. Selleks on vaja piisavat kogust akupakette, mida võiks ka Eestis toota (need käivad omakorda tehnoloogilise arenguga kaasas ja muutuvad pidevalt efektiivsemaks).
+
+See võimaldab kasutada eelkõige tuuleenergiat akupakettide laadimiseks tuuleperioodidel. Kaasneks sõltumatus fossiilkütustest ning kütuste impordist. Kokkuvõttes on see küll 10–20 aasta perspektiiv, aga koordineerivaid tegevusi ja piisava tehnoloogiliste pädevuste arendamise saab käivitada kohe.

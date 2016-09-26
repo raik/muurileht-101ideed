@@ -1,0 +1,13 @@
+---
+nimi: Sten Tamkivi
+tiitel: infotehnoloogia ettevõtja
+---
+
+# Tõlgime seadused otse masinate keelde
+
+
+Eesti peaks olema esimene riik maailmas, mille parlament võtab vastu mõne juriidilises inimkeeles kirjutatud seaduse asemel selle seaduse mõttes õiget vastust väljastava arvutiprogrammi lähtekoodi. Kõige lihtsam on alustada maksude, lõivude, toetuste arvestamise või mõne muu “matemaatilisema iseloomuga” seadusega.
+ 
+Praktilise näitena võib riigikogu kinnitada näiteks maksuameti API (*application programming interface*) versiooni 1.0, mis vastab päringule “mis on kehtiv käibemaks?” tänase tehingu kohta 20%, aga 1. veebruarist 2015 hoopis 18% ja millagi hoopis 15%. Või kui sisendiks küsiti raamatu- või kontserdipiletite maksu, siis vastava erimäära. Ja nüüd edasi ei pea siit Eesti firmade raamatupidamistarkvara, poodide kassaprogrammid, internetipangad ja kes iganes selle API külge ennast korra liidestanud on, enam teoreetiliselt mitte kunagi tegema nende maksude muutudes seadustes näpuga järge ajades loodetavasti identseid muudatusi sadades eri süsteemides. Iga süsteemi harjumuspärane küsimus saab riigilt lihtsalt ja automaatselt uue seadusliku vastuse.
+ 
+Suurem selgus, vähem vigu, vähem tõlgendamisvaidlusi – ehk ka paremad maksulaekumised? Kõik võidavad.

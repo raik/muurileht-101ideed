@@ -1,0 +1,9 @@
+---
+nimi: Linnar Viik
+tiitel: IT-visionäär
+---
+
+# Avalike e-teenuste kasutamiseks kõigile tasuta mobiilinternet
+
+
+Arvestades ühelt poolt seda, et üle 75% inimestest kasutavad iga päev nutitelefoni, ning teiselt poolt meie püüdeid tagada avalike teenuste parim kättesaadavus elektrooniliste kanalite kaudu, on kõigile e-teenuste kättesaadavus mobiilinterneti kaudu avaliku hüvena loomulik küsimus.  Avalikele e-teenustele tasuta ligipääsu kõigi mobiilioperaatorite klientidele korraldab Eesti valitsus, konkreetsemalt majandus- ja kommunikatsiooniministeerium, kui uues valitsuses peaks sellisel ministeeriumi moodustisel veel rolli olema.

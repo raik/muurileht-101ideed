@@ -1,0 +1,11 @@
+---
+nimi: Peeter Vihma
+tiitel: sotsioloog
+---
+
+# Viime elektri ja sooja tootmise kohalikule tasandile
+
+
+Piirkondlikud katlamajad on meil levinud, kuid piirkondlikud elektrijaamad eriti mitte. Kooperatiivne elektritootmine on võimalus, millega saab luua korraga nii sotsiaalseid kui ka majanduslikke hüvesid. Seda saavad teha omavalitsused (vallad) ja ka väiksemad grupid (külad või veel väiksemad ühendused).
+
+Niimoodi toodetakse elektrit tuulegeneraatorite, päikesepaneelide, soojuspumpade ja biomassi põletamisega ja nende erinevates kombinatsioonides. Kooperatiivid on majanduslikult suhteliselt edukad Taanis, Rootsis, Saksamaal ja Inglismaal. Mõnel pool, nt Taanis, ongi need pigem investeeringute kui kogukonna tekitamise jaoks. Eestis algatati just Arengufondi juhitud mentorprogramm esimestele tekkivatele koperatiividele, kus ma omalt poolt kaasa aitan. Igal juhul on tegemist investeeringuga. Küll ei tähenda see aga seda, et peab Virtsu, Pakri vm taoliste eeskujul rajama kohe 3,5 MW tuulikud. Näiteks on 20 kW tuulikud küla peale täiesti mõistlik.

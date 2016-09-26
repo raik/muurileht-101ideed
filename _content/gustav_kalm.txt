@@ -1,0 +1,9 @@
+---
+nimi: Gustav Kalm
+tiitel: üliõpilane
+---
+
+# Eesti kõrghariduse tulevik
+
+
+Peaksime välja mõtlema, mis saab Eesti kõrgharidusest ja ülikoolidest. Järjest kasvavad peale väiksemad põlvkonnad ning üha enam noori suundub välismaale õppima. Eesti peab tõenäoliselt hakkama oma ülikoolidesse meelitama rohkem üliõpilasi mujalt, mis tähendab õppekavade muutmist kas inglis- või venekeelseks tervenisti või näiteks alates magistriastmest. Selline muutus aitaks soodustada ka sisserännet Eestisse. Samas seab see ohtu eesti keele ja teaduskeele elujõu ning tuleviku. Juba praegu kaitstakse Eestis enamik doktoritöid inglise keeles. Näiteks olid 2013. aastal Tartu Ülikoolis kaitstud 114st doktoriväitekirjast kõigest 18 eestikeelsed.
